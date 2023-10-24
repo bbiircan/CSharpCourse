@@ -1,0 +1,7 @@
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Methods\obj\Debug\Methods.pdb

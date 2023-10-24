@@ -1,0 +1,7 @@
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\birca\OneDrive\Masaüstü\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
